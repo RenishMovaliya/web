@@ -2,11 +2,11 @@
     "isActive": "true",
    
     "data": {
-        "Admob_native": "/22405025169,22451482705/statusdownloader.statussaver.storysaver.Native",
-        "Admob_Interstitial": "/22405025169,22451482705/statusdownloader.statussaver.storysaver.AppOpen",
-        "Admob_InterstitialBack": "/22405025169,22451482705/statusdownloader.statussaver.storysaver.AppOpen",
-        "Admob_Banner": "/22405025169,22451482705/statusdownloader.statussaver.storysaver.Banner",
-        "Admob_App_open": "/22405025169,22451482705/statusdownloader.statussaver.storysaver.Interstitial2",
+        "Admob_native": "/22387492205,22665140758/all.video.downloader.all.videodownloader.Native0.1641534985",
+        "Admob_Interstitial": "/22387492205,22665140758/all.video.downloader.all.videodownloader.Interstitial0.1641535002",
+        "Admob_InterstitialBack": "/22387492205,22665140758/all.video.downloader.all.videodownloader.Interstitial0.1641535002",
+        "Admob_Banner": "/22387492205,22665140758/all.video.downloader.all.videodownloader.Banner0.1641534956",
+        "Admob_App_open": "/22387492205,22665140758/all.video.downloader.all.videodownloader.AppOpen0.1641535022",
         "Ins_Counter": "3",
         "IsFackStartScreen": "true"
       
