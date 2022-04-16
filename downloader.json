@@ -1,12 +1,12 @@
 {
-    "isActive": "false",
+    "isActive": "true",
    
     "data": {
         "Admob_native": "/22387492205,22665140758/all.video.downloader.all.videodownloader.Native0.1641534985",
         "Admob_Interstitial": "/22387492205,22665140758/all.video.downloader.all.videodownloader.Interstitial0.1641535002",
-        "Admob_InterstitialBack": "/22387492205,22665140758/all.video.downloader.all.videodownloader.Interstitial0.1641535002-------RENISH",
-        "Admob_Banner": "/22387492205,22665140758/all.video.downloader.all.videodownloader.Banner0.1641534956---------Renish",
-        "Admob_App_open": "t",
+        "Admob_InterstitialBack": "/22387492205,22665140758/all.video.downloader.all.videodownloader.Interstitial0.1641535002",
+        "Admob_Banner": "/22387492205,22665140758/all.video.downloader.all.videodownloader.Banner0.1641534956",
+        "Admob_App_open": "/22387492205,22665140758/all.video.downloader.all.videodownloader.AppOpen0.1641535022",
        
 
         "Ins_Counter": "8",
