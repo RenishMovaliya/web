@@ -1,0 +1,14 @@
+{
+  "GOOGLE_INTERSTITIAL": "/21753324030,22790258212/com.logycraft.smartwatch_new_Interstitial",
+  "GOOGLE_NATIVE": "/21753324030,22790258212/com.logycraft.smartwatch_new_Native",
+  "GOOGLE_BANNER": "/21753324030,22790258212/com.logycraft.smartwatch_new_Banner",
+  "GOOGLE_OPENAPP_ADS": "/21753324030,22790258212/com.logycraft.smartwatch_new_AppOpen",
+  "AD_FB_Native": "YOUR_PLACEMENT_ID",
+  "AD_FB_NativeBanner": "YOUR_PLACEMENT_ID",
+  "AD_FB_Instital": "YOUR_PLACEMENT_ID",
+  "AD_FB_Banner": "YOUR_PLACEMENT_ID",
+  "ADS_TYPE_GOOGLE_OR_FB": 1,
+  "ADS_INTERVAL": 2,
+  "IS_ADS_SHOW": true,
+  "IsBanner": true
+}
