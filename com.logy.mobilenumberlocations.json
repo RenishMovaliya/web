@@ -11,6 +11,6 @@
   "AD_FB_Banner": "YOUR_PLACEMENT_ID",
   "ADS_TYPE_GOOGLE_OR_FB": 1,
   "ADS_INTERVAL": 12,
-  "IS_ADS_SHOW": true,
+  "IS_ADS_SHOW": false,
   "IsBanner": true
 }
