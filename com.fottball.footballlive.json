@@ -11,6 +11,7 @@
   "ADS_INTERVAL": 2,
   "IS_ADS_SHOW": true,
   "IsBanner": true,
+   "IsLive": true,
   "server1": "https://live.hungama.com/linear/pop-pataka/playlist.m3u8",
    "server2": "https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8",
    "server3": "https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8",
