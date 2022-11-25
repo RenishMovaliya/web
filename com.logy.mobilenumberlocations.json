@@ -1,16 +1,16 @@
 
 
 {
-  "GOOGLE_INTERSTITIAL": "/6499/example/interstitial",
-  "GOOGLE_NATIVE": "/6499/example/native",
-  "GOOGLE_BANNER": "/6499/example/banner",
-  "GOOGLE_OPENAPP_ADS": "/6499/example/app-open",
-  "AD_FB_Native": "YOUR_PLACEMENT_ID",
+  "GOOGLE_INTERSTITIAL": "/21753324030,22790258212/com.logy.instagram.reeldownloder_Interstitial",
+  "GOOGLE_NATIVE": "/21753324030,22790258212/com.logy.instagram.reeldownloder_Native",
+  "GOOGLE_BANNER": "/21753324030,22790258212/com.logy.instagram.reeldownloder_Banner",
+  "GOOGLE_OPENAPP_ADS": "/21753324030,22790258212/com.logy.instagram.reeldownloder_AppOpen",
+  "AD_FB_Native": "423825276575389_423826349908615",
   "AD_FB_NativeBanner": "YOUR_PLACEMENT_ID",
-  "AD_FB_Instital": "YOUR_PLACEMENT_ID",
-  "AD_FB_Banner": "YOUR_PLACEMENT_ID",
+  "AD_FB_Instital": "423825276575389_423826273241956",
+  "AD_FB_Banner": "423825276575389_423826163241967",
   "ADS_TYPE_GOOGLE_OR_FB": 1,
-  "ADS_INTERVAL": 12,
-  "IS_ADS_SHOW": false,
+  "ADS_INTERVAL": 1,
+  "IS_ADS_SHOW": true,
   "IsBanner": true
 }
