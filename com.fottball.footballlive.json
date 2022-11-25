@@ -10,5 +10,11 @@
   "ADS_TYPE_GOOGLE_OR_FB": 1,
   "ADS_INTERVAL": 2,
   "IS_ADS_SHOW": true,
-  "IsBanner": true
+  "IsBanner": true,
+  "server1": "https://live.hungama.com/linear/pop-pataka/playlist.m3u8",
+   "server2": "https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8",
+   "server3": "https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8",
+   "server4": "https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8",
+     "server5": "https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8",
+     "server6": "https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8"
 }
