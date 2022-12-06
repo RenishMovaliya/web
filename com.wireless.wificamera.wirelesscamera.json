@@ -1,8 +1,8 @@
 {
-  "GOOGLE_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
-  "GOOGLE_NATIVE": "ca-app-pub-3940256099942544/2247696110",
-  "GOOGLE_BANNER": "ca-app-pub-3940256099942544/6300978111",
-  "GOOGLE_OPENAPP_ADS": "ca-app-pub-3940256099942544/3419835294",
+  "GOOGLE_INTERSTITIAL": "/21753324030,22790258212/com.wireless.wificamera.wirelesscamera_Interstitial",
+  "GOOGLE_NATIVE": "/21753324030,22790258212/com.wireless.wificamera.wirelesscamera_Native",
+  "GOOGLE_BANNER": "/21753324030,22790258212/com.wireless.wificamera.wirelesscamera_Banner",
+  "GOOGLE_OPENAPP_ADS": "/21753324030,22790258212/com.wireless.wificamera.wirelesscamera_AppOpen",
   "AD_FB_Native": "YOUR_PLACEMENT_ID",
   "AD_FB_NativeBanner": "YOUR_PLACEMENT_ID",
   "AD_FB_Instital": "YOUR_PLACEMENT_ID",
