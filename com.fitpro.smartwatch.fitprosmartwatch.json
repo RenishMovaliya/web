@@ -3,12 +3,12 @@
   "GOOGLE_NATIVE": "/21753324030,22790258212/com.fitpro.smartwatch.fitprosmartwatch_Native",
   "GOOGLE_BANNER": "/21753324030,22790258212/com.fitpro.smartwatch.fitprosmartwatch_Banner",
   "GOOGLE_OPENAPP_ADS": "/21753324030,22790258212/com.fitpro.smartwatch.fitprosmartwatch_AppOpen",
-  "AD_FB_Native": "2875410325928219_2876546839147901",
-  "AD_FB_NativeBanner": "2875410325928219_2878217832314135",
-  "AD_FB_Instital": "2875410325928219_2876546665814585",
-  "AD_FB_Banner": "2875410325928219_2876546485814603",
-  "ADS_TYPE_GOOGLE_OR_FB": 0,
-  "ADS_INTERVAL": 2,
+  "AD_FB_Native": "2875410325928219",
+  "AD_FB_NativeBanner": "2875410325928219",
+  "AD_FB_Instital": "2875410325928219",
+  "AD_FB_Banner": "2875410325928219",
+  "ADS_TYPE_GOOGLE_OR_FB": 1,
+  "ADS_INTERVAL": 1,
   "IS_ADS_SHOW": true,
   "IsBanner": true
 }
